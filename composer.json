@@ -1,5 +1,5 @@
 {
-    "name": "kyrohiro/hello",
+    "name": "kyrohiro/phphello",
     "description": "Boilerplate package for creating other packages.",
     "keywords": ["composer", "package"],
     "license": "NONE",
